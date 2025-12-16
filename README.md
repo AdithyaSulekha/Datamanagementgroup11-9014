@@ -26,8 +26,7 @@ CSV / Excel integration – Initial dataset ingestion
 
 How to Run the Project
 1️.Clone the Repository
-git clone https://github.com/your-username/london-transit-ridership.git
-cd london-transit-ridership
+https://github.com/adalve02/Datamanagementgroup11-9014
 2️. Create Virtual Environment
 python -m venv venv
 source venv/bin/activate # Windows: venv\Scripts\activate
